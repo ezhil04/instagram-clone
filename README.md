@@ -9,22 +9,18 @@ INSTALLATION
 4. npm start
 
 
-Tech Used
+TECH USED
 
-ReactJS fire
+1.ReactJS fire
 
-Firebase
+2.Firebase
 
-Material UI
+3.Material UI
 
-SCSS
+FEATURES
 
-Features
+1.Authentication with Email/Password and Google OAuth.
 
-uthentication with Email/Password and Google OAuth.
+2.Picture uploading.
 
- Picture uploading.
-
- Hashtags Highlighting.
-
- Private Routing
+3.Comments
